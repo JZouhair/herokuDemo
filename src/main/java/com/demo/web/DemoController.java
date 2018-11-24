@@ -9,7 +9,7 @@ public class DemoController {
 	
 	@RequestMapping("/api")
 	public String helloWord() {
-		return "Hello Word !";
+		return "Hello jawadi !";
 	}
 
 }
